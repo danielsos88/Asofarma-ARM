@@ -1,0 +1,134 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vulnerabilityAssessments_Default_storageContainerPath": {
+      "value": "https://stoaccmfpcanprd007.blob.core.windows.net/vulnerability-assessment"
+    },
+    "vulnerabilityAssessments_Default_storageContainerPath_1": { "value": ""
+    },
+    "connections_api_connection_mfp_canales_prd_eu2_025_name": {
+      "value": "api_connection_mfp_canales_prd_eu2_025"
+    },
+    "connections_api_connection_mfp_canales_prd_eu2_028_name": {
+      "value": "api_connection_mfp_canales_prd_eu2_028"
+    },
+    "sites_logic_app_mfp_canales_prd_eu2_006_name": {
+      "value": "logic_app_mfp_canales_prd_eu2_006"
+    },
+    "connections_api_connection_mfp_canales_prd_eu2_026_name": {
+      "value": "api_connection_mfp_canales_prd_eu2_026"
+    },
+    "connections_api_connection_mfp_canales_prd_eu2_027_name": {
+      "value": "api_connection_mfp_canales_prd_eu2_027"
+    },
+    "connections_api_connection_mfp_canales_prd_eu2_029_name": {
+      "value": "api_connection_mfp_canales_prd_eu2_029"
+    },
+    "sites_logic_app_mfp_canales_prd_eu2_005_name": {
+      "value": "logic_app_mfp_canales_prd_eu2_005"
+    },
+    "workspaces_synapse_mfp_canales_prd_eu2_002_name": {
+      "value": "synapse_mfp_canales_prd_eu2_002"
+    },
+    "sites_function_app_mfp_canales_prd_eu2_014_name": {
+      "value": "sites_function_app_mfp_canales_prd_eu2_014"
+    },
+    "components_application_insights_mfp_canales_prd_eu2_015_name": {
+      "value": "application_insights_mfp_canales_prd_eu2_015"
+    },
+    "vaults_key_vault_mfp-canales_prd_eu2_021_name": {
+      "value": "key_vault_mfp-canales_prd_eu2_021"
+    },
+    "vaults_key_vault_mfp-canales_prd_eu2_022_name": {
+      "value": "key_vault_mfp-canales_prd_eu2_022"
+    },
+    "vaults_key_vault_mfp-canales_prd_eu2_023_name": {
+      "value": "key_vault_mfp-canales_prd_eu2_023"
+    },
+    "storageAccounts_stoaccmfpcanprd007_name": {
+      "value": "sstoaccmfpcanprd007"
+    },
+    "components_application_insights_mfp_canales_prd_eu2_018_name": {
+      "value": "application_insights_mfp_canales_prd_eu2_018"
+    },
+    "workspaces_synapse_mfp_canales_prd_eu2_003_name": {
+      "value": "synapse_mfp_canales_prd_eu2_003"
+    },
+    "components_application_insights_mfp_canales_prd_eu2_017_name": {
+      "value": "application_insights_mfp_canales_prd_eu2_017"
+    },
+    "components_application_insights_mfp_canales_prd_eu2_016_name": {
+      "value": "application_insights_mfp_canales_prd_eu2_016"
+    },
+    "workflows_logic_app_mfp_canales_prd_eu2_004_name": {
+      "value": "logic_app_mfp_canales_prd_eu2_004"
+    },
+    "storageAccounts_stoaccmfpcanprd008_name": {
+      "value": "stoaccmfpcanprd008"
+    },
+    "storageAccounts_stoaccmfpcanprd011_name": {
+      "value": "stoaccmfpcanprd011"
+    },
+    "serverfarms_app_service_mfp_canales_prd_eu2_031_name": {
+      "value": "app_service_mfp_canales_prd_eu2_031"
+    },
+    "serverfarms_app_service_mfp_canales_prd_eu2_032_name": {
+      "value": "app_service_mfp_canales_prd_eu2_032"
+    },
+    "serverfarms_app_service_mfp_canales_prd_eu2_040_name": {
+      "value": "app_service_mfp_canales_prd_eu2_040"
+    },
+    "storageAccounts_stoaccmfpcanprd009_name": {
+      "value": "stoaccmfpcanprd009"
+    },
+    "storageAccounts_stoaccmfpcanprd010_name": {
+      "value": "stoaccmfpcanprd010"
+    },
+    "storageAccounts_stoaccmfpcanprd012_name": {
+      "value": "stoaccmfpcanprd012"
+    },
+    "userAssignedIdentities_managed-identity_mfp_canales_prd_eu2_039_name": {
+      "value": "managed-identity_mfp_canales_prd_eu2_039"
+    },
+    "actionGroups_action_group_mfp_canales_prd_eu2_001_name": {
+      "value": "action_group_mfp_canales_prd_eu2_001"
+    },
+    "smartdetectoralertrules_failure_anomalies_smart_detector_mfp_canales_prd_eu2_035_name": {
+      "value": "failure_anomalies_mfp_canales_prd_eu2_035"
+    },
+    "smartdetectoralertrules_failure_anomalies_smart_detector_mfp_canales_prd_eu2_036_name": {
+      "value": "failure_anomalies_mfp_canales_prd_eu2_036"
+    },
+    "smartdetectoralertrules_failure_anomalies_smart_detector_mfp_canales_prd_eu2_037_name": {
+      "value": "failure_anomalies_mfp_canales_prd_eu2_037"
+    },
+    "smartdetectoralertrules_failure_anomalies_smart_detector_mfp_canales_prd_eu2_038_name": {
+      "value": "failure_anomalies_mfp_canales_prd_eu2_038"
+    },
+    "systemTopics_event_grid_mfp_mfp-canales_prd_eu2_019_name": {
+      "value": "event_grid_mfp_canales_prd_eu2_019"
+    },
+    "workspaces_log_analytics_mfp_canales_prd_eu2_034_name": {
+      "value": "log_analytics_mfp_canales_prd_eu2_034"
+    },
+    "actiongroups_action_group_mfp_canales_prd_eu2_001_externalid": {
+      "value": "action_group_mfp_canales_prd_eu2_001"
+    },
+    "workspaces_log_analytics_mfp_canales_prd_eu2_034_externalid": {
+      "value": "/subscriptions/8a948c4e-7888-4cca-bec3-9d90d23e7c93/resourceGroups/RG_MX_MFP_CANALES_PRD_EU2/providers/Microsoft.OperationalInsights/workspaces/log_analytics_mfp_canales_prd_eu2_034"
+    },
+    "connections_api_connection_mfp_canales_prd_eu2_028_externalid": {
+      "value": "/subscriptions/8a948c4e-7888-4cca-bec3-9d90d23e7c93/resourceGroups/RG_MX_MFP_CANALES_PRD_EU2/providers/Microsoft.Web/connections/api_connection_mfp_canales_prd_eu2_028"
+    },
+    "connections_api_connection_mfp_canales_prd_eu2_033_externalid": {
+      "value": "/subscriptions/8a948c4e-7888-4cca-bec3-9d90d23e7c93/resourceGroups/RG_MX_MFP_CANALES_PRD_EU2/providers/Microsoft.Web/connections/api_connection_mfp_canales_prd_eu2_033"
+    },
+    "sites_function_app_mfp_canales_prd_eu2_013_name": {
+      "value": "function_app_mfp_canales_prd_eu2_013"
+    },
+    "connections_api_connection_mfp_canales_prd_eu2_033_name": {
+      "value": "api_connection_mfp_canales_prd_eu2_033"
+    }
+  }
+}
